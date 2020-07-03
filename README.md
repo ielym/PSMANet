@@ -1,3 +1,3 @@
 # PSMANet
-<p stype="color:blue; font-weight:bold">Paper : A Parallel Multi-Scale with Hybrid Attention Network for Color Image Denoising</p>
+<p stype="color:blue; font-size:20px;">Paper : A Parallel Multi-Scale with Hybrid Attention Network for Color Image Denoising</p>
 <p>The code will be uploaded soon</p>
